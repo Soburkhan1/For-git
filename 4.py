@@ -1,2 +1,3 @@
 #Print your name
-print('sobur khan')
+name = 'Sobur' 
+print('name')
