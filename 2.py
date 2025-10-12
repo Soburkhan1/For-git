@@ -1,4 +1,4 @@
 '''Take a number as input and print it (How to take a number as input, Google it.)'''
 #soluton
 a = input('what is your number: ')
-print(f'user has given this one: [a]')
+print(f'user has given this one: {a}')
