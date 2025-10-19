@@ -5,5 +5,7 @@ print(word[1:6])
 print(word[-1])
 
 
-first_char = word[0]
-print("The first character is:", first_char)
+first_char = word
+first_char = word
+first_char = word
+print("The first charecter is:" first_char)
