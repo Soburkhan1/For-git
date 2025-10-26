@@ -1,4 +1,5 @@
-# Check if number divisible by 5
-number = 25
-if number % 5==0:
-    print('true')
+#print last character of a string name Finland
+word = 'Finland'
+last_char = word[-1]
+
+print('The last character is:', last_char)
