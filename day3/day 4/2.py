@@ -1,5 +1,5 @@
 # Print "Hello" 3 times
-i = 1
-while i < 4:
+i = 0
+while i < 3:
     print("Hello")
     i += 1
